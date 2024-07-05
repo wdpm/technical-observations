@@ -11,5 +11,6 @@
 
 ## 本地划词翻译
 
-- copytranslator-setup-10.2.4.exe
+- ~~copytranslator-setup-10.2.4.exe~~
 - 欧路词典
+- 网页插件——沉浸式翻译。
